@@ -1,0 +1,15 @@
+A:\SpaceShooters2\Temp\bin\Debug\Assembly-CSharp.dll
+A:\SpaceShooters2\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\SpaceShooters2\Temp\bin\Debug\GameSparks.Api.dll
+A:\SpaceShooters2\Temp\bin\Debug\GameSparks.dll
+A:\SpaceShooters2\Temp\bin\Debug\IFacebook.dll
+A:\SpaceShooters2\Temp\bin\Debug\UnityEditor.dll
+A:\SpaceShooters2\Temp\bin\Debug\UnityEngine.dll
+A:\SpaceShooters2\Temp\bin\Debug\UnityEngine.UI.dll
+A:\SpaceShooters2\Temp\bin\Debug\Mono.Cecil.dll
+A:\SpaceShooters2\Temp\bin\Debug\nunit.framework.dll
+A:\SpaceShooters2\Temp\bin\Debug\Unity.DataContract.dll
+A:\SpaceShooters2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+A:\SpaceShooters2\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+A:\SpaceShooters2\obj\Debug\Assembly-CSharp.dll
+A:\SpaceShooters2\obj\Debug\Assembly-CSharp.pdb
